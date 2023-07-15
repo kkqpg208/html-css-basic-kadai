@@ -1,0 +1,23 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  /* ルート要素のフォントサイズを20pxにし、h1はその2倍にします。 */
+  font-size: 20px;
+  text-align: center;
+}
+h1 {
+/* h1のフォントには、Googleフォント「Josefin Sans」を使用してください。 */
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+.one {
+  color: rgb(255, 192, 203);
+}
+.two {
+  color: skyblue;
+}
+#basic > p {
+  font-weight: bold;
+}
