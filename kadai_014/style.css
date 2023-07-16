@@ -1,11 +1,11 @@
+html {
+  font-size: 20px;
+}
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  /* ルート要素のフォントサイズを20pxにし、h1はその2倍にします。 */
-  font-size: 20px;
   text-align: center;
 }
 h1 {
-/* h1のフォントには、Googleフォント「Josefin Sans」を使用してください。 */
   font-family: 'Josefin Sans', sans-serif;
   font-size: 2rem;
   letter-spacing: 1.2em;
